@@ -15,4 +15,5 @@ INSTALAR
 INSTALAR XAMMPP
 Acceder a la carpeta htdocs 
 Clonar el archivo 
-Presionar start y acceder carpeta anteriormente dentro de public
+Presionar start y acceder carpeta del proyecto
+
