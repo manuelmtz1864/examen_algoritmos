@@ -11,7 +11,7 @@
 
 <body>
     <h1>Hola</h1>
-    <p>Disculpen lo rudimentario que está, solo quiero que sea funcional</p>
+    <p>Disculpen lo rudimentario que está, solo quiero que sea funcional. La última practica no me dio tiempo realizarla.</p>
     <a href="{{route('indexPalabras')}}">Palabras</a>
 
     <br>
