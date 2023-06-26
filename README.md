@@ -11,8 +11,8 @@ Por otro lado, el Abstract Factory es un patrón de diseño que proporciona una 
 
 
 
-INSTALAR EL PROYECTO
-INSTALAR XAMMPP
+INSTALAR EL PROYECTO <br />
+INSTALAR XAMMPP<br />
 Acceder a la carpeta htdocs 
 Clonar el archivo 
 Accedemos a nuestra carpeta del proyecto
