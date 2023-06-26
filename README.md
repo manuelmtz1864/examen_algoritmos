@@ -14,12 +14,12 @@ Por otro lado, el Abstract Factory es un patrón de diseño que proporciona una 
 INSTALAR EL PROYECTO <br />
 INSTALAR XAMMPP<br />
 Acceder a la carpeta htdocs <br />
-Clonar el archivo <br />
+Clonar el proyecto con el comando  "git clone https://github.com/manuelmtz1864/examen_algoritmos.git<br />
 Accedemos a nuestra carpeta del proyecto<br />
 Ejecutamos el comando dentro de la carpeta "composer install"<br />
 Ejecutamos el comando dentro de la carpeta "composer update"<br />
 Ejecutamos el comando dentro de la carpeta "cp .env.example .env"<br />
-Ejecutamos "php artisan key:generate"<br />
+Ejecutamos el comando dentro de la carpeta "php artisan key:generate"<br />
 
 
 
