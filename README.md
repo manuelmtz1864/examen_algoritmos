@@ -13,13 +13,13 @@ Por otro lado, el Abstract Factory es un patrón de diseño que proporciona una 
 
 INSTALAR EL PROYECTO <br />
 INSTALAR XAMMPP<br />
-Acceder a la carpeta htdocs 
-Clonar el archivo 
-Accedemos a nuestra carpeta del proyecto
-Ejecutamos el comando dentro de la carpeta "composer install"
-Ejecutamos el comando dentro de la carpeta "composer update"
-Ejecutamos el comando dentro de la carpeta "cp .env.example .env"
-Ejecutamos "php artisan key:generate"
+Acceder a la carpeta htdocs <br />
+Clonar el archivo <br />
+Accedemos a nuestra carpeta del proyecto<br />
+Ejecutamos el comando dentro de la carpeta "composer install"<br />
+Ejecutamos el comando dentro de la carpeta "composer update"<br />
+Ejecutamos el comando dentro de la carpeta "cp .env.example .env"<br />
+Ejecutamos "php artisan key:generate"<br />
 
 
 
